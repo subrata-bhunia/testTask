@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "653599209324",
+    "project_id": "api-subrata",
+    "storage_bucket": "api-subrata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653599209324:android:642f34aaa8a352deab6549",
+        "android_client_info": {
+          "package_name": "com.tasktest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653599209324-im4glkj6urp6bso9omrc1hqfl6a3rhpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHE0ygizaP62drzN29rHD3x1w8yhxKk1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653599209324-im4glkj6urp6bso9omrc1hqfl6a3rhpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
